@@ -1,6 +1,15 @@
 # US-Census-Data
 This project explores the population of each race and gender in USA state by state, starting by cleaning the data for it to be ready to be vissualized
 
-##Files:
+## Files:
 - The Raw Data: splitted into states0.csv to states9.csv
 - The Analysis: Cleaning US Census Data_Solution.ipynb
+- Results: Charts & Figuews
+
+## Results:
+Here are some key plots from the analysis:
+
+### Income vs Number of Female per State
+![Female Income Trend per State](C:\Users\malna\Data Base\My Projects\Cleaning US Census Data\Results\Income vs Number of Female per state.png)
+
+
